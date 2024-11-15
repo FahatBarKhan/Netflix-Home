@@ -1,0 +1,49 @@
+header{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+   justify-content: space-between;
+   display: flex;
+}
+
+body{
+    background-image: url(https://cdn.wallpapersafari.com/24/74/zgeTuV.jpg) ;
+    
+}
+
+button{
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    height: 40px;
+    width: 140px;
+}
+
+h1{
+    padding-top: 6%;
+    color: white;
+    font-size: 50px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+
+}
+input{
+    height: 40px;
+    width: 420px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(221, 213, 213);
+    color: white;
+    
+
+}
+
